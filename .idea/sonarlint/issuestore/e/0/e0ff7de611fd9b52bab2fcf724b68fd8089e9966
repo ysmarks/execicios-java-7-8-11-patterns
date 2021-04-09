@@ -1,0 +1,14 @@
+
+H
+java:S3655"2Call "max.isPresent()" before accessing the value.(âèçÑ
+N
+java:S3655"3Call "max2.isPresent()" before accessing the value.(ð£íøýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™²¡üýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö«°›ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(âèçÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ð£íøýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èØ×®þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þÜÚ™ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±‚åâ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûá¥åÿÿÿÿÿ

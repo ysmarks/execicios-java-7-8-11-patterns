@@ -1,0 +1,35 @@
+
+:
+java:S1640"Convert this Map to an EnumMap.(Åß‡Âúÿÿÿÿ
+R
+java:S18547"<Remove this useless assignment to local variable "collect5".(à’­Š
+W
+java:S18542"<Remove this useless assignment to local variable "collect4".(İ´É˜ÿÿÿÿÿ
+R
+java:S1854/"<Remove this useless assignment to local variable "collect3".(Çè¸î
+R
+java:S1854)"<Remove this useless assignment to local variable "collect2".(Ë¬úà
+W
+java:S1854#"<Remove this useless assignment to local variable "collect1".(ê¡³Éøÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "collect".(äËĞ—
+V	java:S125"<This block of commented-out lines of code should be removed.(ÿÎô¾ıÿÿÿÿ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(ûÔ÷€
+V	java:S125'"<This block of commented-out lines of code should be removed.(æëã‡şÿÿÿÿ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(ÂÜ´œ
+P	java:S1250"<This block of commented-out lines of code should be removed.(ôç‘!
+Q	java:S1255"<This block of commented-out lines of code should be removed.(ïáÈ
+V	java:S1259"<This block of commented-out lines of code should be removed.(ˆ’ßĞûÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(«€Âäøÿÿÿÿ
+B
+java:S1481",Remove this unused "collect" local variable.(äËĞ—
+H
+java:S1481#"-Remove this unused "collect1" local variable.(ê¡³Éøÿÿÿÿ
+C
+java:S1481)"-Remove this unused "collect2" local variable.(Ë¬úà
+C
+java:S1481/"-Remove this unused "collect3" local variable.(Çè¸î
+H
+java:S14812"-Remove this unused "collect4" local variable.(İ´É˜ÿÿÿÿÿ
+C
+java:S14817"-Remove this unused "collect5" local variable.(à’­Š

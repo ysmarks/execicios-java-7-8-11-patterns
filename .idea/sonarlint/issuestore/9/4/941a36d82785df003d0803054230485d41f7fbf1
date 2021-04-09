@@ -1,0 +1,21 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(µ…¬„øÿÿÿÿ8æˆ¬µ×.
+K
+java:S1481")Remove this unused "date" local variable.(“Õâ¾şÿÿÿÿ8æˆ¬µ×.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(È­ÚÕÿÿÿÿÿ8™­¸µ×.
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ÌÃÜ²×.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Íêàğûÿÿÿÿ8úÓ·µ×.
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ĞÃà²×.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(»Êˆş8°É¿µ×.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘ŸÈ×8Ò®…³×.
+Z
+java:S1854"8Remove this useless assignment to local variable "date".(“Õâ¾şÿÿÿÿ8æˆ¬µ×.
+U
+java:S1128"8Remove this unused import 'java.util.GregorianCalendar'.(€û½8£ø‰²×.
+X	java:S125"<This block of commented-out lines of code should be removed.(¬‘ì®8æˆ¬µ×.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(îåá€ÿÿÿÿÿ8®²µ×.
+]	java:S125"<This block of commented-out lines of code should be removed.(×êòıüÿÿÿÿ8æˆ¬µ×.
+N
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8ÌÃÜ²×.

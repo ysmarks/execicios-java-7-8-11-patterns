@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”Í¬åøÿÿÿÿ8ÌÏ¨³ë.
+E
+java:S1125"(Remove the literal "true" boolean value.(¾Ù­ç8ÿé°³ë.
+J
+java:S1125"(Remove the literal "true" boolean value.(±þÄ‰ÿÿÿÿÿ8€ê­³ë.
+J
+java:S1125"(Remove the literal "true" boolean value.(”Í¬åøÿÿÿÿ8¥·«³ë.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±þÄ‰ÿÿÿÿÿ8Áñ¬³ë.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾Ù­ç8òö®³ë.

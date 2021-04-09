@@ -1,0 +1,16 @@
+
+J
+java:S3655"4Call "soma2.isPresent()" before accessing the value.(²òŒˆ
+U
+java:S3655":Call "somaSalario.isPresent()" before accessing the value.(ù•ïºúÿÿÿÿ
+I
+java:S3655"3Call "soma.isPresent()" before accessing the value.(¡ Â
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡ Â
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²òŒˆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£Ôæ§øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù•ïºúÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ùØ›±
+E
+java:S3631&"/Use "Arrays.stream" instead of "Arrays.asList".(·ŞÔ¢

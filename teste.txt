@@ -1,0 +1,7 @@
+File
+Bomba
+Agua
+Gelo
+FileRead
+Bebedouro
+Xanda

@@ -1,0 +1,12 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Sompo" 3 times.(š¿ÿß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©èŞ¶ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(å¥®´
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·ãƒ’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õªş½
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¥üÃÿÿÿÿÿ
+T
+java:S1144"9Remove this unused private "checarNomeSeguradora" method.(ÑÏ˜áúÿÿÿÿ
+\
+java:S1144"ARemove this unused private "checarNomeSeguradoraOptional" method.(·‘îÔşÿÿÿÿ

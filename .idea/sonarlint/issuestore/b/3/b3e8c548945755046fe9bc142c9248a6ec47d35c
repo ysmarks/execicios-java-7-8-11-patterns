@@ -1,0 +1,9 @@
+
+`
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(®ÓÈÑıÿÿÿÿ
+[
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¢¾È
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(Š™Ò¾ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ú•€Ë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
