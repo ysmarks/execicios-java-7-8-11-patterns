@@ -1,7 +1,5 @@
 package br.com.javacore.zzcjdbc.conn;
 
-import jdk.nashorn.internal.runtime.regexp.JdkRegExp;
-
 import javax.sql.RowSet;
 import javax.sql.rowset.CachedRowSet;
 import javax.sql.rowset.JdbcRowSet;
